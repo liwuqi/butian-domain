@@ -1,1 +1,1 @@
-'python butian.py' 
+python butian.py
